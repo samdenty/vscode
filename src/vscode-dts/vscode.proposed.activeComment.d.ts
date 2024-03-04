@@ -6,7 +6,7 @@
 declare module 'vscode' {
 	// @alexr00 https://github.com/microsoft/vscode/issues/204484
 
-	export interface CommentController {
+	export interface CommentController2 {
 		/**
 		 * The currently active comment or `undefined`. The active comment is the one
 		 * that currently has focus or, when none has focus, undefined.
